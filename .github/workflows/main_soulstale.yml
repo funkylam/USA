@@ -57,4 +57,4 @@ jobs:
           app-name: 'soulstale'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A340C20DE4844AE5A2E043E5C02CFFDC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A40829F9ADB04F00A815B0C0DFB62BD0 }}
